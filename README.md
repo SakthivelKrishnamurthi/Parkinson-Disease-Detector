@@ -1,2 +1,2 @@
 # Parkinson-Disease-Detector
-A simple web application that process the  spiral image and produces the result.
+This Project allows user to login, upload details and spiral image after which using the ML model result is generated.
