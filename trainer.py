@@ -189,7 +189,7 @@ class Condensed_Conv(nn.Module):
     
     def forward(self,input):
 
-        # passing through the network
+        # passing through the network                              
         output = self.conv_layer(input)
         
         # making a res connection , if reconnect is true
